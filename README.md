@@ -5,8 +5,7 @@
 # Oops! Another Universe
 
 
-## Basic Details
-### Team Name: [Name]
+#Team Name: Prettyuseless
 
 
 ### Team Members
